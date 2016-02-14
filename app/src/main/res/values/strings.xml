@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NYTSearch</string>
+    <string name="search_string">search_string</string>
+    <string name="network_failure_msg">No network Connectivity. Please try again later.</string>
+    <string name="Sports">Sports</string>
+    <string name="Fashion"><![CDATA[Fashion & Style]]></string>
+    <string name="Arts">Arts</string>
+    
+
+    <string-array name="sortOrder">
+        <item>Newest</item>
+        <item>Oldest</item>
+    </string-array>
+    
+    <!--Key-Value for preferences-->
+    <string name="key_sortOrder">sort</string>
+    <string name="key_beginDate">begin_date</string>
+    <string name="key_Sports">Sports</string>
+    <string name="key_arts">Arts</string>
+    <string name="key_Fashion">Fashion</string>
+    <string name="news_desk">news_desk</string>
+</resources>
